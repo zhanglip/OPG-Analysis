@@ -1,0 +1,9 @@
+G:\compile\OPG\OPG\bin\Release\OPG.exe.config
+G:\compile\OPG\OPG\bin\Release\OPG.exe
+G:\compile\OPG\OPG\bin\Release\OPG.pdb
+G:\compile\OPG\OPG\obj\Release\OPG.csprojResolveAssemblyReference.cache
+G:\compile\OPG\OPG\obj\Release\OPG.Form1.resources
+G:\compile\OPG\OPG\obj\Release\OPG.Properties.Resources.resources
+G:\compile\OPG\OPG\obj\Release\OPG.csproj.GenerateResource.Cache
+G:\compile\OPG\OPG\obj\Release\OPG.exe
+G:\compile\OPG\OPG\obj\Release\OPG.pdb
